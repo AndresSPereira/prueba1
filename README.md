@@ -1,2 +1,2 @@
-# prueba1
-es uuna prueba
+# Prueba1
+es una prueba
